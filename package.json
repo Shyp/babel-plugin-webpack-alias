@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "name": "babel-plugin-webpack-alias-shyp",
   "description": "shyp's temporary fork of babel-plugin-webpack-alias with far fewer dependencies",
   "main": "build/index.js",
