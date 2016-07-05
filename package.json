@@ -1,7 +1,7 @@
 {
   "version": "1.3.2",
-  "name": "babel-plugin-webpack-alias",
-  "description": "babel 6 plugin which allows to use webpack aliases",
+  "name": "babel-plugin-webpack-alias-shyp",
+  "description": "shyp's temporary fork of babel-plugin-webpack-alias with far fewer dependencies",
   "main": "build/index.js",
   "scripts": {
     "build": "babel src -d build",
