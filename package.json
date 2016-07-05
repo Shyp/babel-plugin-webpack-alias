@@ -12,15 +12,15 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trayio/babel-plugin-webpack-alias/issues",
+    "url": "https://github.com/shyp/babel-plugin-webpack-alias/issues",
     "email": "adrien@tray.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trayio/babel-plugin-webpack-alias.git"
+    "url": "https://github.com/shyp/babel-plugin-webpack-alias.git"
   },
   "author": "Adrien Antoine <adrien@tray.io> (http://tray.io)",
-  "homepage": "https://github.com/trayio/babel-plugin-webpack-alias#readme",
+  "homepage": "https://github.com/shyp/babel-plugin-webpack-alias",
   "devDependencies": {
     "ava": "^0.14.0",
     "babel-cli": "^6.5.1",
